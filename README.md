@@ -6,7 +6,7 @@
 ### 效果展示
 ![]( https://github.com/MrRobotter/AndroidGuide/raw/master/resource/image/ring_demo.jpg )
 
-* 方法说明
+### 方法说明
 
 |**方法** |**说明**|
 |:----:|:----:|
