@@ -1,9 +1,10 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group = 'com.github.MrRobotter'
 
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.joinyon.circularpercenring"
         minSdkVersion 14
         targetSdkVersion 27
         versionCode 1
